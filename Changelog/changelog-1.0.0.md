@@ -2,11 +2,14 @@
 
 ### Added Resource Packs:
 
-`Colourful containers GUI == 1.21.4`
+```
+Colourful containers GUI == 1.21.4
+```
 
 ### Added Shaders:
 
-```BSL Shaders                        == 8.4.01.2
+```
+BSL Shaders                        == 8.4.01.2
 Complementary Shaders - Reimagined == r5.3
 Complementary Shaders - Unbound    == r5.3
 Insanity Shader                    == 1.650
@@ -18,7 +21,8 @@ Super Duper Vanilla                == 1.3.7
 
 ### Added Mods:
 
-```3D Skin Layers                     == 1.7.4
+```
+3D Skin Layers                     == 1.7.4
 AppleSkin                          == 3.0.6+mc1.21
 Architectury API                   == 13.0.8+fabric
 BadOptimizations                   == 2.2.1
