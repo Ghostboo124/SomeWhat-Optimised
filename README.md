@@ -17,6 +17,7 @@ Then, click on the `From File` button, then click on the `Import from file` butt
 ## For Curseforge
 
 Download the latest .zip file from the [releases tab](https://github.com/Ghostboo124/SomeWhat-Optimised/releases) file and open CurseForge and click the `Import` button, then navigate to the directory where you saved the .zip file and open it and it should automatically install
+
 ![image](https://github.com/Ghostboo124/SomeWhat-Optimised/blob/main/src/images/curseforge-addingModpack1.png)
 
 
