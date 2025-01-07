@@ -7,8 +7,11 @@ It includes shaders like bliss, complementary reimagined and super duper vanilla
 ## For The Modrinth app
 
 Download the latest .mrpack file from the [releases tab](https://github.com/Ghostboo124/SomeWhat-Optimised/releases) and open Modrinth and click on the plus icon under your installed modpacks
+
 ![image](https://github.com/Ghostboo124/SomeWhat-Optimised/blob/main/src/images/modrinth-addingModpack1.png)
+
 Then, click on the `From File` button, then click on the `Import from file` button and navigate to the path with the file you downloaded the .mrpack file and it should automatically install
+
 ![image](https://github.com/Ghostboo124/SomeWhat-Optimised/blob/main/src/images/modrinth-addingModpack2.png)
 
 ## For Curseforge
