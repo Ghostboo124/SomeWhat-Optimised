@@ -3,7 +3,7 @@
 ### Added Resource Packs:
 
 ```
-Colourful containers GUI == 1.21.4
+Colourful containers GUI           == 1.21.4
 ```
 
 ### Added Shaders:
